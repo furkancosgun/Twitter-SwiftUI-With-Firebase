@@ -1,5 +1,5 @@
 
-SwiftUI Twitter App
+SwiftUI Twitter App  MVVM
 -
 Twitter clone made with SwiftUI used Firebase for backend
 
